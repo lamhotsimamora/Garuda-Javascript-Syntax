@@ -1,4 +1,5 @@
 # Garuda-Javascript-Syntax
+Screenshoot was made by Carbon (https://carbon.now.sh/)
 
 ## Album
 1 Basic.png
