@@ -1,7 +1,4 @@
 var $start = 0;
-
-
-
 $menu.when('change',$=>{
 	var now   = $menu.getSelected();
 	var index = JSON.parse(now);
