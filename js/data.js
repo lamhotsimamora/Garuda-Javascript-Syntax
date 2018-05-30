@@ -32,5 +32,9 @@ const $album_image = [
 	'31 Convert Array to JSON.png',
 	'32 Get URL Check URL.png',
 	'33 Get Type Of Object.png',
-	'34 Animate FadeIn FadeOut.png'
+	'34 Animate FadeIn FadeOut.png',
+	'35 Garuda-Import-SingleData.png',
+	'36 Garuda-Import-Multiple-Data.png',
+	'37 Garuda-Route.png',
+	'38 Garuda-Template.png'
 ]
