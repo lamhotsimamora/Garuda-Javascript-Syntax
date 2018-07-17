@@ -36,5 +36,6 @@ const $album_image = [
 	'35 Garuda-Import-SingleData.png',
 	'36 Garuda-Import-Multiple-Data.png',
 	'37 Garuda-Route.png',
-	'38 Garuda-Template.png'
+	'38 Garuda-Template.png',
+	'39 Garuda-Text.png'
 ]
